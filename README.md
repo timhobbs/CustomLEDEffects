@@ -45,3 +45,6 @@ To add the effects for a table:
 - Extract the contents to the `Config` folder
 - Open the text file and follow the instructions to update the DOF config for the table for your DOF account (TODO: see about getting the changes made as JSON and if it would be possible to update the DOF config tool to add an import capability)
 
+## References
+
+[VPCLE Youtube Channel](https://www.youtube.com/@VPCLE)
