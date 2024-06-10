@@ -9,17 +9,17 @@
   ```
   c:\DirectOutput\Config
   ```
-  [[images/dof-ini.png]]
+  ![dof-ini](images/dof-ini.png)
 - Under `Cabinet Config` tab, click `Select File` and select you cabinext file:
   ```
   c:\DirecOutput\Config\Cabinet.xml
   ```
-  [[images/cabinet-cfg.png]]
+  ![cabinet-cfg](images/cabinet-cfg.png)
 - Under `Logging` tab verify these settings:
-  - Enable logging: checked
+  - Enable logging: `checked`
   - Log file: `c:\DirecOutput\DirectOutput.log` (make sure this is the full path, not the relative path)
-  - Clear log on session start: checked
-  [[images/logging.png]]
+  - Clear log on session start: `checked`  
+  ![logging](images/logging.png)
 - Click the `File` menu otion, then click `Save` and save the file in your `Config` folder as `GlobalConfig_B2SServer.xml`
 - Make a copy of the `GlobalConfig_B2SServer.xml` and rename it to `GlobalConfig.xml`
 - Copy the `GlobalConfig_B2SServer.xml` and `GlobalConfig.xml` files and save them in your DOF64 `COnfig` folder:
