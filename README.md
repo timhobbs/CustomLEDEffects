@@ -29,10 +29,7 @@
 
 ## Custom Effects
 
-- Visit the Facebook group
-  ```
-  [Virtual Pinball Custom LED Effects (VPCLE)](https://www.facebook.com/groups/515014447452704/)
-  ```
+- Visit the Facebook group: [Virtual Pinball Custom LED Effects (VPCLE)](https://www.facebook.com/groups/515014447452704/)
 - The group "About" section will have a link to the Google docs location for all the files (TODO: See about placing the files within the github repo)
 - For your first time, visit the "Start Here" folder read the instructions.txt (TODO: See about just moving that content tot e readme)
 - You can view the `_MX-TABLES` sheet for a lits of all the csutom effects, or you can simply view the folders with the Google drive.
