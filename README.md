@@ -1,5 +1,4 @@
 ## Initial DOF Setup
-====================
 
 - Open DOF global config editor
   ```
@@ -29,7 +28,6 @@
   ```
 
 ## Custom Effects
-=================
 
 - Visit the Facebook group
   ```
@@ -40,7 +38,6 @@
 - You can view the `_MX-TABLES` sheet for a lits of all the csutom effects, or you can simply view the folders with the Google drive.
 
 ### Adding Effects
-==================
 
 To add the effects for a table:
 
