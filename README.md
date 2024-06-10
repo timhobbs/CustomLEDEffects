@@ -9,7 +9,7 @@
   ```
   c:\DirectOutput\Config
   ```
-  [[images\dof-ini.png]]
+  [[images/dof-ini.png]]
 - Under `Cabinet Config` tab, click `Select File` and select you cabinext file:
   ```
   c:\DirecOutput\Config\Cabinet.xml
